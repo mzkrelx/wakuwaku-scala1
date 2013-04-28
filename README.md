@@ -3,6 +3,10 @@ wakuwaku-scala1
 
 2013/04/27 wakuwaku Scala ～Scala入門勉強会～ 資料
 
+勉強会の資料中のソースコードです。
+スライドは slideshare にあります。
+http://www.slideshare.net/MizukiYamanaka/wakuwakuscala1
+
 
 ### 番号と内容の対応 ###
 01. 基本のFizzBuzz
